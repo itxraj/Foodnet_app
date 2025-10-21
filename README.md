@@ -1,12 +1,10 @@
-<<<<<<< HEAD
-# Foodnet_app
-=======
-# React + Vite
+# 🍽️ FoodNet 
+A sleek and responsive food-themed frontend website built with React JS, designed to showcase delicious dishes, modern UI, and smooth user experience.\
+ 🔗 [Live Website](https://foodnet-project.netlify.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 307ad85 (first commit)
+🚀 Features
+- ⚛️ Built with React JS and modern component architecture
+- 🎨 Clean and appetizing UI with intuitive navigation
+- 📱 Fully responsive design for mobile and desktop
+- 🧭 Dynamic routing with React Router
+- 🌐 Deployed on Netlify for fast and reliable acces
